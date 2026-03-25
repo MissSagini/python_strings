@@ -25,4 +25,9 @@ fruit = 'Pineapple'
 if word < 'Pineapple':
     print('banana comes first')
 
+fruit = 'Watermelon'
+if word > 'Apple':
+    print('Watermelon supremacy')
+
+
 
